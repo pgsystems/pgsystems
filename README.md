@@ -2,7 +2,7 @@
 - 👀 Estamos interesados n que la gente usa mis apps
 - 🌱 Ahora estoy apreendiendo Java
 - 💞️ Estoy buscando colaborar en la comunidad
-- 📫 Puedes encontarme en sites.google.com/view/pgsystemsoficial
+- 📫 Puedes encontarme en pgsystems.github.io
 
 <!---
 pgsystems/pgsystems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
